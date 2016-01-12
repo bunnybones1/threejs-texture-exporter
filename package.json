@@ -1,0 +1,37 @@
+{
+  "name": "threejs-texture-exporter",
+  "version": "1.0.0",
+  "description": "Exports a texture from THREEJS to a .JPEG",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "three": "^0.71.0",
+    "threejs-camera-controller-first-person-desktop": "^5.0.1",
+    "threejs-checkerroom": "^1.0.0",
+    "threejs-texture-checkerboard": "^1.0.0",
+    "chalk": "^1.0.0",
+    "clamp": "^1.0.1",
+    "file-io-server": "^1.0.6",
+    "png-io": "^1.0.1",
+    "shelljs": "^0.5.0",
+    "threejs-managed-view": "^4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-texture-exporter.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-texture-exporter",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-texture-exporter/issues"
+  }
+}
